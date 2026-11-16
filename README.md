@@ -13,6 +13,7 @@ Consolidar os conhecimentos adquiridos durante a formação, praticando a lingua
 | 01 | [Conversor Kelvin para Celsius](./01-conversor-kelvin-celsius/) | Conversão de temperaturas utilizando operações matemáticas. |
 | 03 | [Desafio Ping Pong](./03-desafio-ping-pong/) | Concorrência utilizando goroutines e channels. |
 | 04 | [API REST de Clientes](./04-api-rest-clientes/) | API REST para cadastro e gerenciamento de clientes utilizando Gorilla Mux. |
+| 05 | [Calculadora em Go](./05-calculadora/) | Implementação de uma calculadora com operações básicas e tratamento de erros. |
 
 ## Tecnologias
 
